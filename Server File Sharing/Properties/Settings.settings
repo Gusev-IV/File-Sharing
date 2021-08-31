@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Server_File_Sharing.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServerIp" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.36</Value>
+    </Setting>
+    <Setting Name="ServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8901</Value>
+    </Setting>
+    <Setting Name="ServerName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server</Value>
+    </Setting>
+    <Setting Name="ServerPathSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\fura3\OneDrive\Поекты\файлы сервера</Value>
+    </Setting>
+    <Setting Name="ClientIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.65</Value>
+    </Setting>
+    <Setting Name="ClientPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8900</Value>
+    </Setting>
+    <Setting Name="ClientName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">client</Value>
+    </Setting>
+    <Setting Name="MAC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">F0DEF193AF38</Value>
+    </Setting>
+    <Setting Name="ClientIpServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.1.65</Value>
+    </Setting>
+    <Setting Name="ClientFavorite" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
